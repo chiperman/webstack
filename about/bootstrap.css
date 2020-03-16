@@ -61,6 +61,11 @@ strong {
     font-weight: 700
 }
 
+strong:hover,
+strong:focus {
+    color: #e1e1e1;
+}
+
 dfn {
     font-style: italic
 }
@@ -1413,7 +1418,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #16191e;
+    color: #e1e1e1;
     text-decoration: underline
 }
 
@@ -1855,7 +1860,7 @@ blockquote {
     blockquote {
         border-left: 5px solid #7AC088
     }
-  }
+}
 
 blockquote p:last-child,
 blockquote ul:last-child,
