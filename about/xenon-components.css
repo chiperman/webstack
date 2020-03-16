@@ -6473,6 +6473,12 @@ button.toast-close-button {
     padding: 15px
 }
 
+@media (prefers-color-scheme: dark) {
+    .xe-widget.xe-conversations {
+        background: #333333;
+    }
+  }
+
 .xe-widget.xe-conversations .xe-bg-icon {
     position: absolute;
     right: 20px;
