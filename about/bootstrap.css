@@ -63,7 +63,7 @@ strong {
 
 strong:hover,
 strong:focus {
-    color: #e1e1e1;
+    color: #EA4C89;
 }
 
 dfn {
@@ -1418,7 +1418,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #e1e1e1;
+    color: #EA4C89;
     text-decoration: underline
 }
 
